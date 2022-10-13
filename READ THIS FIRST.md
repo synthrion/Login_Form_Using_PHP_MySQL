@@ -1,6 +1,6 @@
 # PHP_MySQL_Practice#1
 
-Writing this because I have a bad memory
+Writing this because I have a bad memory. For future use only.
 
 Things to do before running:
 
@@ -16,11 +16,16 @@ Things to do before running:
    <li>A_I (AUTO_INCREMENT)</li>
    <li>keyname must be PRIMARY</li>
   </ul>  
-  &emsp;2. <b>name</b> (a) data type must be varchar(128)<br>
-  &emsp;3. <b>email</b> (a) data type must be varchar(255), <br>   &emsp;  &emsp;  &emsp; (b) keyname must be UNIQUE<br>
-  &emsp;4. <b>password_hash</b> (a) data type must be varchar(255)<br>
+  &emsp;2. <b>name</b>  
   <ul>
-   <li>data type must be INT(11)</li>
-   <li>A_I (AUTO_INCREMENT)</li>
-   <li>keyname must be PRIMARY</li>
+   <li>data type must be varchar(128)<br></li>
   </ul>  
+<br>
+  &emsp;3. <b>email</b> 
+  <ul>
+   <li>data type must be varchar(255)</li>
+  <li>keyname must be UNIQUE</li>
+  </ul>  
+<br>
+  &emsp;4. <b>password_hash</b> (a) data type must be varchar(255)<br>
+  
