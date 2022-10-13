@@ -16,3 +16,8 @@ Things to do before running:
   &emsp;2. <b>name</b> (a) data type must be varchar(128)<br>
   &emsp;3. <b>email</b> (a) data type must be varchar(255), <br>   &emsp;  &emsp;  &emsp; (b) keyname must be UNIQUE<br>
   &emsp;4. <b>password_hash</b> (a) data type must be varchar(255)<br>
+  <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
