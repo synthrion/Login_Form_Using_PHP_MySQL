@@ -7,8 +7,9 @@ Things to do before running:
 1.) Download XAMPP ---> https://www.apachefriends.org/ <br>
 2.) Go to XAMPP Control Panel <br>
 3.) Turn ON Apache, and MySQL <br>
-4.) Build database as "login_db" <br>
-5.) Create 4 tables <br>
+4.) Go to localhost/phpmyadmin or click Admin in XAMPP Control Panel
+5.) Build database as "login_db" <br>
+6.) Create 4 tables <br>
   &emsp;a. <b>id</b> - it must be INT(11), A_I (AUTO_INCREMENT), keyname must be PRIMARY<br>
   &emsp;b. <b>name</b> - it must be varchar(128)<br>
   &emsp;c. <b>email</b> - it must be varchar(255), keyname must be UNIQUE<br>
