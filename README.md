@@ -4,7 +4,7 @@ Writing this because I have a bad memory
 
 Things to do before running:
 
-1.) Download XAMPP ---> https://www.apachefriends.org/ <br?
+1.) Download XAMPP ---> https://www.apachefriends.org/ <br>
 2.) Go to XAMPP Control Panel
 3.) Turn ON Apache, and MySQL
 4.) Build database as "login_db"
