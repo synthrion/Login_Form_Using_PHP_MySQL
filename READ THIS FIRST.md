@@ -15,7 +15,7 @@ Things to do before running:
    <li>data type must be INT(11)</li>
    <li>A_I (AUTO_INCREMENT)</li>
    <li>keyname must be PRIMARY</li>
-  </ul>  
+  </ul>  <br>
   &emsp;2. <b>name</b>  
   <ul>
    <li>data type must be varchar(128)<br></li>
