@@ -9,7 +9,7 @@ Things to do before running:
 3.) Turn ON Apache, and MySQL <br>
 4.) Go to <u>localhost/phpmyadmin</u> or click Admin in XAMPP Control Panel <br>
 5.) Build database as "login_db" <br>
-6.) Create 4 tables
+6.) Create 4 tables<br>
   &emsp;1. <b>id</b> 
   <ul>
    <li>data type must be INT(11)</li>
