@@ -10,6 +10,6 @@ Things to do before running:
 4.) Build database as "login_db" <br>
 5.) Create 4 tables <br>
   &emsp;a. <b>id</b> - it must be INT(11), A_I (AUTO_INCREMENT), keyname must be PRIMARY<br>
-  &emsp;b. name - it must be varchar(128)<br>
-  &emsp;c. email - it must be varchar(255), keyname must be UNIQUE<br>
-  &emsp;d. password_hash - it must be varchar(255)<br>
+  &emsp;b. <b>name</b> - it must be varchar(128)<br>
+  &emsp;c. <b>email</b> - it must be varchar(255), keyname must be UNIQUE<br>
+  &emsp;d. <b>password_hash</b> - it must be varchar(255)<br>
