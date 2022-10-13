@@ -13,6 +13,6 @@ Things to do before running:
   &emsp;1. <b>id</b> (a) data type must be INT(11), <br>
     &emsp;  &emsp;  &emsp;(b) A_I (AUTO_INCREMENT), <br>
     &emsp;  &emsp;  &emsp;(c) keyname must be PRIMARY<br>
-  &emsp;2. <b>name</b> - data type must be varchar(128)<br>
-  &emsp;3. <b>email</b> - data type must be varchar(255), keyname must be UNIQUE<br>
+  &emsp;2. <b>name</b> (a) data type must be varchar(128)<br>
+  &emsp;3. <b>email</b> (a) data type must be varchar(255), <br>   &emsp;  &emsp;  &emsp;keyname must be UNIQUE<br>
   &emsp;4. <b>password_hash</b> - data type must be varchar(255)<br>
