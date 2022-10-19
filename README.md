@@ -1,6 +1,8 @@
 # Creating Login Form Using PHP and MySQL
 Tutorial from Dave Hollingworth at https://www.youtube.com/watch?v=5L9UhOnuos0&t=2106s&ab_channel=DaveHollingworth
-
+<br>
+<br>
+<br>
 ## Writing this because I have a bad memory. For future use only.
 
 ### Things to do before running:
