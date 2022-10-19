@@ -32,3 +32,5 @@ Things to do before running:
 <ul>
    <li>data type must be varchar(255)</li>
   </ul>  
+  ![image](https://user-images.githubusercontent.com/74046232/196758256-0928efb0-c2d6-4ff5-87a5-95e5957b9427.png)
+
