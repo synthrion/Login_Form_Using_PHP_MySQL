@@ -1,8 +1,8 @@
 # PHP_MySQL_Practice#1
 
-##Writing this because I have a bad memory. For future use only.
+## Writing this because I have a bad memory. For future use only.
 
-Things to do before running:
+### Things to do before running:
 
 1.) Download XAMPP ---> https://www.apachefriends.org/ <br>
 2.) Go to XAMPP Control Panel <br>
